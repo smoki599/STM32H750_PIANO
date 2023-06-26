@@ -1,0 +1,9 @@
+../Core/Src/main.c:106:5:main	16	static
+../Core/Src/main.c:169:9:CheckForUserInput	4	static
+../Core/Src/main.c:178:6:BSP_PB_Callback	16	static
+../Core/Src/main.c:210:13:SystemClock_Config	128	static
+../Core/Src/main.c:293:13:CPU_CACHE_Enable	24	static,ignoring_inline_asm
+../Core/Src/main.c:307:13:MX_ADC3_Init	40	static
+../Core/Src/main.c:368:13:MX_GPIO_Init	72	static
+../Core/Src/main.c:801:6:StartDefaultTask	16	static
+../Core/Src/main.c:821:6:Error_Handler	8	static,ignoring_inline_asm
