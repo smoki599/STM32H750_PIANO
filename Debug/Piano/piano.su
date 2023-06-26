@@ -1,0 +1,10 @@
+../Piano/piano.c:43:6:pianoMain	8	static
+../Piano/piano.c:64:13:Draw_Menu	16	static
+../Piano/piano.c:100:13:reDraw	8	static
+../Piano/piano.c:104:13:colorWhite	24	static
+../Piano/piano.c:116:13:GetPosition	8	static
+../Piano/piano.c:165:13:clean	24	static
+../Piano/piano.c:188:13:PlayBlack	120	static
+../Piano/piano.c:233:13:PlayWhite	120	static
+../Piano/piano.c:287:6:setPWM	40	static
+../Piano/piano.c:301:6:MX_TIM2_Init	64	static
